@@ -1,3 +1,4 @@
-# nodefactorial
-help link:
-https://blog.devsharma.live/deploy-a-node-server-to-vercel
+## Node Factorial App With Vercel
+
+* Frontend: https://ashokide.github.io/node-factorial-vercel/
+* API: https://nodefactorial.vercel.app/
